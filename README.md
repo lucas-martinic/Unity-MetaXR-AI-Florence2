@@ -111,5 +111,11 @@ Other field descriptions that are already assigned:
 - Microsoft Florence-2: https://huggingface.co/microsoft/Florence-2-large
 - NVIDIA AI API (VLM Florence-2): https://build.nvidia.com/
 
+## 🔎 Relevant Sources & Opportunities 
+
+SensAI Kits GitHub - Main hub for all XR AI kits
+SensAI Hackademy - Early access program for courses and toolkits
+SensAI Hack - Upcoming hackathons where you can use the kits"
+
 ## 📄 License
 MIT – Free to use, modify and learn from.
