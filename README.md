@@ -113,9 +113,9 @@ Other field descriptions that are already assigned:
 
 ## 🔎 Relevant Sources & Opportunities 
 
-SensAI Kits GitHub - Main hub for all XR AI kits
-SensAI Hackademy - Early access program for courses and toolkits
-SensAI Hack - Upcoming hackathons where you can use the kits"
+- [SensAI Kits GitHub](https://github.com/XRBootcamp/SensAIKits) - Main hub for all XR AI kits 
+- [SensAI Hackademy](https://www.sensaihackademy.com/) - Early access program for courses and toolkits
+- [SensAI Hack](https://sensaihack.com/) - Upcoming hackathons where you can use the kits
 
 ## 📄 License
 MIT – Free to use, modify and learn from.
